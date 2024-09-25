@@ -45,26 +45,3 @@ The output table will look as follows:
 | 43   | show_4  |         |         |
 | 44   | show_4  |         |         |
 | 45   | show_4  |         |         |
-
-
-The output table will look as follows:
-
-| Hour | Stage 1 | Stage 2 | Stage 3 |
-|------|---------|---------|---------|
-| 29   | show_3  |         |         |
-| 30   | show_3  | show_2  |         |
-| 31   | show_3  | show_2  |         |
-| 32   | show_3  | show_2  | show_5  |
-| 33   | show_3  | show_2  | show_5  |
-| 34   | show_3  |         | show_5  |
-| 35   | show_3  |         | show_5  |
-| 36   | show_3  | show_1  | show_5  |
-| 37   |         | show_1  | show_5  |
-| 38   |         | show_1  | show_5  |
-| 39   |         | show_1  |         |
-| 40   | show_4  |         |         |
-| 41   | show_4  |         |         |
-| 42   | show_4  |         |         |
-| 43   | show_4  |         |         |
-| 44   | show_4  |         |         |
-| 45   | show_4  |         |         |
